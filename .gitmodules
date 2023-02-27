@@ -1,3 +1,6 @@
 [submodule "FITDEMO3"]
 	path = FITDEMO3
 	url = https://github.com/kamali05/FITDEMO3.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
